@@ -5,8 +5,6 @@
   Me encanta resolver problemas de manera creativa, innovar y trabajar en equipo para lograr la excelencia en el desarrollo de software
 </h3>
 
-- 🌱Recientemente estoy aprendiendo **Node JS y React JS**
-
 - 📫 Pueden contactarme **luismurrugarra17@gmail.com**
 
 <h3 align="left">Languages:</h3>
